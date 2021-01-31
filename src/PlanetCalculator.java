@@ -1,3 +1,10 @@
+/**
+ * 
+ * Created and designed by Christopher Castillo. 
+ * Copyright © 2021 Chris36021. All rights reserved.
+ * Created in 2019. Edited in 2021.
+ *
+ */
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.EventQueue;
@@ -7,7 +14,6 @@ import java.awt.SystemColor;
 import java.awt.Toolkit;
 import java.awt.event.*;
 import java.text.DecimalFormat;
-
 import javax.swing.*;
 import javax.swing.JLabel;
 import javax.swing.JMenu;
